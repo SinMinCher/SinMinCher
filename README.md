@@ -1,4 +1,4 @@
-### Hey 👋, I'm [SinMinCher!](https://github.com/PrudhviGNV)
+### Hey 👋, I'm [Sin Min Cher!](https://github.com/PrudhviGNV)
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm SinMinCher
+Hi, I'm Sin Min Cher
 
 
 
@@ -22,10 +22,11 @@ Hi, I'm SinMinCher
 **Talking about Education/Skills:**
 
 - Studying in 2020 from Sogang MTEC
-
-
+- My most played game [https://youtu.be/NGILnNjjMZk?si=PROg4trFndfgoYcM]
 - 💬 Ask me about anything, I am happy to help <---- Don't do that bro, I can't help you.
 - 📫 How to reach me: upandmu@gmail.com
+- If you want to play a game with me, send an email to me
+- I wake at 06:00, rest at 23:00 (UTC+9)
 
 &nbsp;
 
@@ -35,23 +36,4 @@ Hi, I'm SinMinCher
 :pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
-
-
-<a href="https://github.com/SinMinCher/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=FacialEmotionRecognition-usingCNN" />
-</a>
-
-<a href="https://github.com/SinMinCher/FaceRecognisationBasedAttendence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=FaceRecognisationBasedAttendence" />
-</a>
-
-<a href="https://github.com/SinMinCher/pathFinderVisualizer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=pathFinderVisualizer" />
-</a>
-
-<a href="https://github.com/SinMinCher/SpeechEmotionRecognization">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=SpeechEmotionRecognization" />
-</a>
-
------
 
