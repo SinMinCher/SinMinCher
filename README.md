@@ -13,7 +13,7 @@
 Hi, I'm SinminChul
 
 
-"Hellllllllllllllllllllllllllp!!!!!!! aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak!!!!!!!" 
+
 
 
 
