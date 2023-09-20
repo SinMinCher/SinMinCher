@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm SinminChul
+Hi, I'm SinMinCher
 
 
 
@@ -21,7 +21,7 @@ Hi, I'm SinminChul
 
 **Talking about Education/Skills:**
 
-- Studying in 2020 from sogang MTEC
+- Studying in 2020 from Sogang MTEC
 
 
 - 💬 Ask me about anything, I am happy to help <---- Don't do that bro, I can't help you.
