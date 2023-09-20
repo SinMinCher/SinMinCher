@@ -6,7 +6,7 @@
 </a>
 
 <br />
- <a href="[https://github.com/SinMinCher]/" align="left" > My portfolio : SimMinChul.github.io </a> 
+ <a href="[https://github.com/SinMinCher]/" align="left" > My portfolio : SimMinCher.github.io </a> 
 <br />
 <br />
 
