@@ -54,6 +54,4 @@ Hi, I'm SinminChul
 </a>
 
 -----
-Credits: [SinMinCher](https://github.com/SinMinCher)
 
-Last Edited on: 20/09/2023
