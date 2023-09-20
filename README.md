@@ -1,18 +1,16 @@
 ### Hey 👋, I'm [SinMinCher!](https://github.com/PrudhviGNV)
 
 
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://[www.linkedin.com/in/prudhvignv](https://github.com/SinMinCher)/">
+  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <br />
- <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
+ <a href="[https://github.com/SinMinCher]/" align="left" > My portfolio : SimMinChul.github.io </a> 
 <br />
 <br />
 
-Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
+Hi, I'm SinminChul
 
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
@@ -23,44 +21,39 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 **Talking about Education/Skills:**
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
--  python 
--  Data Science , Machine Learning, Deep Learning and Web development
-- Python , Java, JavaScript, C, C#
--  Html, CSS, Java Script, JQuery, BootStrap, React
--  DBMS, MySQL, MongoDB
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
+- Studying in 2020 from sogang MTEC
+
 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prudhvi.gnv@gmail.com
+- 📫 How to reach me: upandmu@gmail.com
 
 &nbsp;
 
 
-![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=PrudhviGNV&show_icons=true&hide_border=true)
+![SinMinCher's github stats](https://github-readme-stats.vercel.app/api?username=SinMinCher&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [README](https://github.com/PrudhviGNV/PrudhviGNV) :pencil:
+:pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
-💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
+💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
 
 
-<a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FacialEmotionRecognition-usingCNN" />
+<a href="https://github.com/SinMinCher/FacialEmotionRecognition-usingCNN">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=FacialEmotionRecognition-usingCNN" />
 </a>
 
-<a href="https://github.com/PrudhviGNV/FaceRecognisationBasedAttendence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FaceRecognisationBasedAttendence" />
+<a href="https://github.com/SinMinCher/FaceRecognisationBasedAttendence">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=FaceRecognisationBasedAttendence" />
 </a>
 
-<a href="https://github.com/PrudhviGNV/pathFinderVisualizer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=pathFinderVisualizer" />
+<a href="https://github.com/SinMinCher/pathFinderVisualizer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=pathFinderVisualizer" />
 </a>
 
-<a href="https://github.com/PrudhviGNV/SpeechEmotionRecognization">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=SpeechEmotionRecognization" />
+<a href="https://github.com/SinMinCher/SpeechEmotionRecognization">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SinMinCher&repo=SpeechEmotionRecognization" />
 </a>
 
 -----
-Credits: [PrudhviGNV](https://github.com/PrudhviGNV)
+Credits: [SinMinCher](https://github.com/SinMinCher)
 
 Last Edited on: 30/08/2020
