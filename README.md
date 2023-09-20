@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Prudhvi Garapati!](https://github.com/PrudhviGNV)
+### Hey 👋, I'm [SinMinCher!](https://github.com/PrudhviGNV)
 
 
 <a href="https://www.linkedin.com/in/prudhvignv/">
