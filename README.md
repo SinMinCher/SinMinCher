@@ -24,7 +24,7 @@ Hi, I'm SinminChul
 - Studying in 2020 from sogang MTEC
 
 
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help <---- Don't do that bro, I can't help you.
 - 📫 How to reach me: upandmu@gmail.com
 
 &nbsp;
