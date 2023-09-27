@@ -20,7 +20,7 @@ Hi, I'm Sin Min Cher
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+ <img align="right" height="300px" width= "320px" alt="GIF" src="[https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif](https://github.com/SinMinCher/SinMinCher)" />
 
 **Talking about Education/Skills:**
 
