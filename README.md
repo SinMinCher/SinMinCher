@@ -2,7 +2,7 @@
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
-  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="[https://github.com/SinMinCher/SinMinCher]" />
 </a>
 
 <br />
