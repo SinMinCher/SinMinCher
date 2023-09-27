@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Sin Min Cher!](https://github.com/PrudhviGNV)
+### Hey 👋, I'm [Sin Min Cher!](https://github.com/SinMinCher)
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
@@ -44,3 +44,5 @@ Hi, I'm Sin Min Cher
 :pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
+
+
