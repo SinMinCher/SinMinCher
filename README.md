@@ -2,7 +2,7 @@
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
-  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="n.https://github.com/SinMinCher" />
 </a>
 
 <br />
@@ -44,5 +44,6 @@ Hi, I'm Sin Min Cher
 :pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
+
 
 
