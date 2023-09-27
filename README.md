@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Sin Min Cher!](https://github.com/PrudhviGNV)
+### Hey 👋, I'm [Sin Min Cher!](https://github.com/SinMinCher/SinMinCher)
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
