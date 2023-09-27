@@ -6,7 +6,10 @@
 </a>
 
 <br />
- <a href="[https://github.com/SinMinCher]/" align="left" > My portfolio : SimMinCher.github.io </a> 
+ <a href="[https://github.com/SinMinCher]/" align="left" > 
+ 
+ 
+ My portfolio : SimMinCher.github.io </a> 
 <br />
 <br />
 
@@ -25,7 +28,7 @@ Hi, I'm Sin Min Cher
 
 - My most played game [https://youtu.be/NGILnNjjMZk?si=PROg4trFndfgoYcM]
 
-- 💬 Ask me about anything, I am happy to help <---- Don't do that bro, I can't help you.
+- 💬 Ask me about anything, I am happy to help <-- Don't do that bro, I can't help you.
 
 - 📫 How to reach me: upandmu@gmail.com
 
@@ -41,7 +44,4 @@ Hi, I'm Sin Min Cher
 :pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
-
-
-
 
