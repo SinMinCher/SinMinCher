@@ -1,8 +1,8 @@
-### Hey 👋, I'm [Sin Min Cher!](https://github.com/SinMinCher/SinMinCher)
+### Hey 👋, I'm [Sin Min Cher!](https://github.com/PrudhviGNV)
 
 
 <a href="https://[www.linkedin.com/in/SinMinCher](https://github.com/SinMinCher)/">
-  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="[https://github.com/SinMinCher/SinMinCher]" />
+  <img align="left" alt="SinMinCher's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
@@ -20,7 +20,7 @@ Hi, I'm Sin Min Cher
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="[https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif](https://github.com/SinMinCher/SinMinCher)" />
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 **Talking about Education/Skills:**
 
@@ -44,4 +44,3 @@ Hi, I'm Sin Min Cher
 :pushpin: Star and Fork this [README](https://github.com/SinMinCher/SinMinCher) :pencil:
 
 💻 Recent projects in which I have contributed in my [github](https://github.com/SinMinCher/)
-
