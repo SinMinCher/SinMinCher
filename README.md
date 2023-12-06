@@ -28,8 +28,6 @@ Hi, I'm Sin Min Cher
 
 - My most played game [https://youtu.be/NGILnNjjMZk?si=PROg4trFndfgoYcM]
 
-- 💬 Ask me about anything, I am happy to help <-- Don't do that bro, I can't help you.
-
 - 📫 How to reach me: upandmu@gmail.com
 
 - If you want to play a game with me, send an email to me
